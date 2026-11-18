@@ -7,7 +7,7 @@ Numbers match the image: 1–3 lead stories, 4–13 illustrated panels, 14–42 
 | # | Story (as shown) | Sources checked |
 |---|---|---|
 | 1 | Ukraine strikes Kerch (Crimean) Bridge for a 2nd day; General Staff says arch and road span collapsed; Aksyonov says 2 killed; Kremlin vows repairs | ABC News (AU), NBC News, PBS/AP, Kyiv Independent |
-| 2 | IRGC says drones targeted US radar in Bahrain; Bahrain says it intercepted them; US official tells Reuters jets hit IRGC launch site on Qeshm; tanker hit off Oman, crew evacuated | Khaleej Times live blog (citing Reuters, AFP, UKMTO), Al Jazeera |
+| 2 | IRGC says drones targeted US radar in Bahrain; Bahrain says it intercepted them; US official tells Reuters jets hit IRGC launch site on Qeshm | Khaleej Times live blog (citing Reuters, AFP, UKMTO), Al Jazeera |
 | 3 | Quad leaders' summit in Manila (Trump, Modi, Takaichi, Albanese); Trump says four signed minerals deals. Context line: Kremlin says Trump–Xi–Putin talks set for Thu 19 Nov in Shenzhen (schedule, first announced 16 Nov) | Japan PM's Office summary, ANI, Al Jazeera; Anadolu, TASS, CNBC (schedule) |
 | 4 | PAHO withdraws measles-elimination status of US, Mexico, Bolivia | ABC News, CNN, TIME, The Hill |
 | 5 | Dow closes down 848.75 points (−1.64%) at 50,759.42; Nvidia Q3 FY27 revenue $115.8bn (+103%), $150bn buyback, reported after the close | Market Speaker, investingLive, Benzinga (Dow close); CNBC, Nvidia release (via StockTitan), Yahoo Finance live |

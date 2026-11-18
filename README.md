@@ -5,14 +5,14 @@
 [![reward](https://make.fun/badge/news-image-20261117/putrifransiska/news-image-20261117/reward.svg)](https://make.fun/c/news-image-20261117)
 
 An entry to make.fun's [news-image-20261117](https://make.fun/c/news-image-20261117) competition: one image that
-sums up the world's news of **Tuesday 17 November 2026** (42 stories, six continents, a "day in numbers" strip,
-a map, every claim credited).
+sums up the world's news of **Tuesday 17 November 2026** (42 stories, six continents, three large lead
+stories, a "day in numbers" strip, every claim credited).
 
 ![Tuesday 17 November 2026](entry.png)
 
 ## How it works
 
-- `entry.png` (1024×1024, 128-colour palette PNG, 113,755 bytes) is drawn ahead of time and kept in the repository.
+- `entry.png` (1024×1024, 128-colour palette PNG, 113,001 bytes) is drawn ahead of time and kept in the repository.
 - `main.ts` (Node 22, standard library only) checks the PNG signature and the 1 MiB limit, then copies it to
   `/output/entry.png`; no network, same bytes every run.
 - `build/page.html` is the layout with hand-drawn SVG illustrations (no photos); `build/render.mjs` renders it
@@ -32,7 +32,7 @@ the image to whoever made them. Numbers match the image: 1–3 lead stories, 4�
 | # | Story (as shown) | Sources checked |
 |---|---|---|
 | 1 | Ukraine strikes Kerch (Crimean) Bridge for a 2nd day; General Staff says arch and road span collapsed; Aksyonov says 2 killed; Kremlin vows repairs | ABC News (AU), NBC News, PBS/AP, Kyiv Independent |
-| 2 | IRGC says drones targeted US radar in Bahrain; Bahrain says it intercepted them; US official tells Reuters jets hit IRGC launch site on Qeshm; tanker hit off Oman, crew evacuated | Khaleej Times live blog (citing Reuters, AFP, UKMTO), Al Jazeera |
+| 2 | IRGC says drones targeted US radar in Bahrain; Bahrain says it intercepted them; US official tells Reuters jets hit IRGC launch site on Qeshm | Khaleej Times live blog (citing Reuters, AFP, UKMTO), Al Jazeera |
 | 3 | Quad leaders' summit in Manila (Trump, Modi, Takaichi, Albanese); Trump says four signed minerals deals. Context line: Kremlin says Trump–Xi–Putin talks set for Thu 19 Nov in Shenzhen (schedule, first announced 16 Nov) | Japan PM's Office summary, ANI, Al Jazeera; Anadolu, TASS, CNBC (schedule) |
 | 4 | PAHO withdraws measles-elimination status of US, Mexico, Bolivia | ABC News, CNN, TIME, The Hill |
 | 5 | Dow closes down 848.75 points (−1.64%) at 50,759.42; Nvidia Q3 FY27 revenue $115.8bn (+103%), $150bn buyback, reported after the close | Market Speaker, investingLive, Benzinga (Dow close); CNBC, Nvidia release (via StockTitan), Yahoo Finance live |
